@@ -15,7 +15,7 @@ Interface simples e intuitiva
 
 
 - Prints do App
-<p align="center"> <img src="./assets/print1.png" width="250"/> <img src="./assets/print2.png" width="250"/> </p>
+<p align="center"> <img src="./assets/printtt1.png" width="250"/> <img src="./assets/printtt2.png" width="250"/> </p>
 
 
 - Tecnologias Utilizadas
